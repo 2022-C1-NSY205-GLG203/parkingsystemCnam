@@ -51,3 +51,7 @@ To run the tests from maven, go to the folder that contains the pom.xml file and
 ### Bug Fixes
 
 Changing the logic in the FareCalculatorService
+
+### Etape 2
+
+Adding 30 minutes free parking and 5% reduction to reccurent customers
